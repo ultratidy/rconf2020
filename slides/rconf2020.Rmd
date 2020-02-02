@@ -25,6 +25,7 @@ There were several talks detailing tips and tricks for using R.  Unfortunately, 
 - Give a presentation using slides from Rmarkdown
 - Setup a github account
 - Use R for predictive modeling
+- test
 
 
 ## Slide with R Output
