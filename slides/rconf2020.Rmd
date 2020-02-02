@@ -1,7 +1,7 @@
 ---
-title: "rconf2020"
+title: "rstudio::conf 2020"
 author: "Josh Johnston"
-date: "2/1/2020"
+date: "2/2/2020"
 output: ioslides_presentation
 ---
 
@@ -9,18 +9,23 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Things I Learned at rconf
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+San Francisco has a homeless problem.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+There were about 20 different workshops.  Workshop slides and scrips can be reviewed here: <https://github.com/rstudio-conf-2020>.
+
+There were several talks detailing tips and tricks for using R.  Unfortunately, the slide decks were not aggregated for sharing.  
+
 
 ## Slide with Bullets
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4
+- Create a package
+- Create a shiny app
+- Give a presentation using slides from Rmarkdown
+- Setup a github account
+- Use R for predictive modeling
+
 
 ## Slide with R Output
 
