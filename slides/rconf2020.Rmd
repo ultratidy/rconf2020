@@ -9,23 +9,54 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Things I Learned at rconf
+## Things I Learned @ rconf 
+
 
 San Francisco has a homeless problem.  
 
-There were about 20 different workshops.  Workshop slides and scrips can be reviewed here: <https://github.com/rstudio-conf-2020>.
+I attended the applied machine learning workshop.  Course material for all workshops is available here: 
+<https://github.com/rstudio-conf-2020>.
 
-There were several talks detailing tips and tricks for using R.  Unfortunately, the slide decks were not aggregated for sharing.  
+There were four different tracks running simultaneously during the conference.  Unfortunately, the material wasn't aggregated from each track.  I'll share some highlights from the sessions that I attended.  
 
 
-## Slide with Bullets
 
-- Create a package
-- Create a shiny app
-- Give a presentation using slides from Rmarkdown
-- Setup a github account
+## Package Development
+
+Everyone should create a package in R.  Rmarkdown, Git, and Roxygen2 make creating a package fairly easy.  
+
+I created a package that quickly creates a control chart for process monitoring.  
+
+## Shiny App
+
+Everyone should create a Shiny app.  I created a Shiny app to evaluate complaint groupings.
+
+
+## Rmarkdown 
+
+Marianne attending the Rmarkdown workshop, so I'll let her elaborate, but Rmarkdown can do some amazing things.  I created this slide deck in Rmarkdown.  
+
+## Git / Github
+
+Github is a great tool for implementing version control on your projects.  It also makes sharing, collaborating, and hosting solutions very easy.  You should all create a free github account and get familiar with the Rstudio / github integration features.  
+
+
+## Predictive Modeling
+
+Models are generally categorized as regression or classification.  
+
 - Use R for predictive modeling
-- test
+
+- List types of Regression models
+-- Linear Regression
+
+- Classification Models
+-- Random Forrests
+-- Boosted Trees
+
+- Hybrid Models
+-- MARS
+-- SVM
 
 
 ## Slide with R Output
