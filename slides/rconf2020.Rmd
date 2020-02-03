@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Things I Learned @ rconf 
 
 
-San Francisco has a homeless problem.  
+San Francisco has a homeless problem.  Feb 3rd 12:36 udpate.
 
 I attended the applied machine learning workshop.  Course material for all workshops is available here: 
 <https://github.com/rstudio-conf-2020>.
